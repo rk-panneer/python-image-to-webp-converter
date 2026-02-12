@@ -167,8 +167,8 @@ INFO: ❌ Errors: 0
 
 ### 👨‍💻 Author
 
-**R. Panneer**
-Senior Backend / Full-Stack Engineer
+**R. Panneer** - 
+Senior Backend / Full-Stack Engineer - 
 Python • PHP • Laravel • Systems • AI Integrations
 
 ---
